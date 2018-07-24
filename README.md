@@ -13,7 +13,7 @@ Built on Netlify
 1. Clone the repo and deploy it as a netlify (with one click via this DTN button)
 
 <!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/jamstack-comments-engine)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/jamstack-comments-engine) [![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/jamstack-comments-engine.svg)](https://greenkeeper.io/)
 
 2. Configure a Slack integration on your Slack account
 3. Add the required environment variables for:
